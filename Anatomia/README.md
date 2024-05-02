@@ -1,6 +1,6 @@
-## Getting Started
+## Anatomia das Classes
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Uma Classe bem estruturada não quer guerra com ninguém
 
 ## Folder Structure
 
