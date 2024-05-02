@@ -2,17 +2,12 @@
 
 Uma Classe bem estruturada não quer guerra com ninguém
 
-## Folder Structure
+A escrita de códigos de um programa é feito através da composição de palavras pré-definidas pela linguagem com as expressões que utilizamos para determinar o nome dos nossos arquivos, classes, atributos e métodos.
 
-The workspace contains two folders by default, where:
+é muito comum mesclarmos expressões no idiuoma americano com o nosso vocabulário. Existem projetos que recomendam que toda a implementação do seu programa sejha escrita na língua inglesa.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Sintaxe de declaração de uma nova classe:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+public class MinhaClass {
+    // seu código aqui
+}
